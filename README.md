@@ -48,6 +48,6 @@ Financial time series analysis of SPY, QQQ and VIX, focusing on returns, volatil
 
 ## Contact
 
-Linkedin: (YOUR_LINKEDIN_URL)
+[Linkedin](https://www.linkedin.com/in/aarni-autio-588668448 )
 
 Email: aarni.autio12@gmail.com
